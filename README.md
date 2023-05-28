@@ -1,3 +1,3 @@
-** # MY FAVORITE MOVIE **
+**# MY FAVORITE MOVIE**
 ---
 **paragraph** 1
