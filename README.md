@@ -1,4 +1,5 @@
 **MY FAVORITE MOVIE IS**
 ## WHAT HAPPENED TO MONDAY
 ---
-My Favorite Movie is *What Happened to Monday*. It release on *August 30, 2017* and directed by **Tommy Wirkola**.
+It release on *August 30, 2017* and directed by **Tommy Wirkola**. The movie talks about that in a world where families are allowed
+only one child due to *overpopulation*
