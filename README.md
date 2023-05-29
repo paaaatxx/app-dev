@@ -5,4 +5,4 @@ It release on *August 30, 2017* and directed by **Tommy Wirkola**. The movie tal
 only one child due to *overpopulation*. And there are identical septuplets and they must avoid the governmental execution. 
 
 **The Moral of the Story** is it shows how siblings work together and how siblings show their love for each other. They take each 
-places themselves into danger and some even sacrifices just to save each other.
+places themselves into danger and some even sacrifices just to save each >other.
